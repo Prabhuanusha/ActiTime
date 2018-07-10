@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Title is mtching:actiTIME - Login]]>
+    </line>
+    <line>
+      <![CDATA[UserName:admin]]>
+    </line>
+    <line>
+      <![CDATA[Password:damager]]>
+    </line>
+    <line>
+      <![CDATA[element is present....]]>
+    </line>
+    <line>
+      <![CDATA[Expected error message:Username or Password is invalid. Please try again.]]>
+    </line>
+    <line>
+      <![CDATA[Actual error message:Username or Password is invalid. Please try again.]]>
+    </line>
+    <line>
+      <![CDATA[ ======== ]]>
+    </line>
+    <line>
+      <![CDATA[UserName:qsp]]>
+    </line>
+    <line>
+      <![CDATA[Password:jsp]]>
+    </line>
+    <line>
+      <![CDATA[element is present....]]>
+    </line>
+    <line>
+      <![CDATA[Expected error message:Username or Password is invalid. Please try again.]]>
+    </line>
+    <line>
+      <![CDATA[Actual error message:Username or Password is invalid. Please try again.]]>
+    </line>
+    <line>
+      <![CDATA[ ======== ]]>
+    </line>
+    <line>
+      <![CDATA[UserName:]]>
+    </line>
+    <line>
+      <![CDATA[Password:a]]>
+    </line>
+    <line>
+      <![CDATA[element is present....]]>
+    </line>
+    <line>
+      <![CDATA[Expected error message:Username or Password is invalid. Please try again.]]>
+    </line>
+    <line>
+      <![CDATA[Actual error message:Username or Password is invalid. Please try again.]]>
+    </line>
+    <line>
+      <![CDATA[ ======== ]]>
+    </line>
+    <line>
+      <![CDATA[UserName:a]]>
+    </line>
+    <line>
+      <![CDATA[Password:@]]>
+    </line>
+    <line>
+      <![CDATA[element is present....]]>
+    </line>
+    <line>
+      <![CDATA[Expected error message:Username or Password is invalid. Please try again.]]>
+    </line>
+    <line>
+      <![CDATA[Actual error message:Username or Password is invalid. Please try again.]]>
+    </line>
+    <line>
+      <![CDATA[ ======== ]]>
+    </line>
+    <line>
+      <![CDATA[UserName:1]]>
+    </line>
+    <line>
+      <![CDATA[Password:2]]>
+    </line>
+    <line>
+      <![CDATA[element is present....]]>
+    </line>
+    <line>
+      <![CDATA[Expected error message:Username or Password is invalid. Please try again.]]>
+    </line>
+    <line>
+      <![CDATA[Actual error message:Username or Password is invalid. Please try again.]]>
+    </line>
+    <line>
+      <![CDATA[ ======== ]]>
+    </line>
+  </reporter-output>
+  <suite name="Failed suite [Suite]" duration-ms="44221" started-at="2018-07-09T18:41:42Z" finished-at="2018-07-09T18:42:27Z">
+    <groups>
+    </groups>
+    <test name="Test(failed)" duration-ms="44221" started-at="2018-07-09T18:41:42Z" finished-at="2018-07-09T18:42:27Z">
+      <class name="com.actitime.tests.invalidLoginTest">
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:com.actitime.tests.invalidLoginTest@4b553d26]" name="preCondition" is-config="true" duration-ms="14695" started-at="2018-07-09T18:41:42Z" finished-at="2018-07-09T18:41:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="testinvalidLoginTest()[pri:1, instance:com.actitime.tests.invalidLoginTest@4b553d26]" name="testinvalidLoginTest" duration-ms="27117" started-at="2018-07-09T18:41:57Z" finished-at="2018-07-09T18:42:24Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Title is mtching:actiTIME - Login]]>
+            </line>
+            <line>
+              <![CDATA[UserName:admin]]>
+            </line>
+            <line>
+              <![CDATA[Password:damager]]>
+            </line>
+            <line>
+              <![CDATA[element is present....]]>
+            </line>
+            <line>
+              <![CDATA[Expected error message:Username or Password is invalid. Please try again.]]>
+            </line>
+            <line>
+              <![CDATA[Actual error message:Username or Password is invalid. Please try again.]]>
+            </line>
+            <line>
+              <![CDATA[ ======== ]]>
+            </line>
+            <line>
+              <![CDATA[UserName:qsp]]>
+            </line>
+            <line>
+              <![CDATA[Password:jsp]]>
+            </line>
+            <line>
+              <![CDATA[element is present....]]>
+            </line>
+            <line>
+              <![CDATA[Expected error message:Username or Password is invalid. Please try again.]]>
+            </line>
+            <line>
+              <![CDATA[Actual error message:Username or Password is invalid. Please try again.]]>
+            </line>
+            <line>
+              <![CDATA[ ======== ]]>
+            </line>
+            <line>
+              <![CDATA[UserName:]]>
+            </line>
+            <line>
+              <![CDATA[Password:a]]>
+            </line>
+            <line>
+              <![CDATA[element is present....]]>
+            </line>
+            <line>
+              <![CDATA[Expected error message:Username or Password is invalid. Please try again.]]>
+            </line>
+            <line>
+              <![CDATA[Actual error message:Username or Password is invalid. Please try again.]]>
+            </line>
+            <line>
+              <![CDATA[ ======== ]]>
+            </line>
+            <line>
+              <![CDATA[UserName:a]]>
+            </line>
+            <line>
+              <![CDATA[Password:@]]>
+            </line>
+            <line>
+              <![CDATA[element is present....]]>
+            </line>
+            <line>
+              <![CDATA[Expected error message:Username or Password is invalid. Please try again.]]>
+            </line>
+            <line>
+              <![CDATA[Actual error message:Username or Password is invalid. Please try again.]]>
+            </line>
+            <line>
+              <![CDATA[ ======== ]]>
+            </line>
+            <line>
+              <![CDATA[UserName:1]]>
+            </line>
+            <line>
+              <![CDATA[Password:2]]>
+            </line>
+            <line>
+              <![CDATA[element is present....]]>
+            </line>
+            <line>
+              <![CDATA[Expected error message:Username or Password is invalid. Please try again.]]>
+            </line>
+            <line>
+              <![CDATA[Actual error message:Username or Password is invalid. Please try again.]]>
+            </line>
+            <line>
+              <![CDATA[ ======== ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testinvalidLoginTest -->
+        <test-method status="PASS" signature="postCondition(org.testng.ITestResult)[pri:0, instance:com.actitime.tests.invalidLoginTest@4b553d26]" name="postCondition" is-config="true" duration-ms="2334" started-at="2018-07-09T18:42:24Z" finished-at="2018-07-09T18:42:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testinvalidLoginTest status=SUCCESS method=invalidLoginTest.testinvalidLoginTest()[pri:1, instance:com.actitime.tests.invalidLoginTest@4b553d26] output=Title is mtching:actiTIME - Login]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- com.actitime.tests.invalidLoginTest -->
+    </test> <!-- Test(failed) -->
+  </suite> <!-- Failed suite [Suite] -->
+</testng-results>
